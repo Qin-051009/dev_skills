@@ -1,4 +1,5 @@
-# 路飞的自我介绍
+# 路飞的自我介绍<img width="2559" height="1599" alt="屏幕截图 2026-03-18 203630" src="https://github.com/user-attachments/assets/c17f4c7c-5c76-475d-931e-ac6a6855e328" />
+
 <img src="images/preview.jpg" width="200" alt="路飞">
 ![preview](https://github.com/user-attachments/assets/b557b24b-a2d2-4be9-8002-fd92214d169d)
 
