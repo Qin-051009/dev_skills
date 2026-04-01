@@ -1,5 +1,5 @@
 # 路飞的自我介绍
-<img src="https://raw.githubusercontent.com/你的用户名/仓库名/main/images/luffy.jpg" width="200" alt="路飞">
+<img src="images/preview.jpg" width="200" alt="路飞">
 ![preview](https://github.com/user-attachments/assets/b557b24b-a2d2-4be9-8002-fd92214d169d)
 
 大家好，我是**蒙奇·D·路飞**，我的身份是*草帽海贼团船长*。以下是我的自我介绍：
